@@ -1,6 +1,5 @@
 //problema 9
-//Este problema foi feito com o auxílio do chat gpt
-package vetor;
+//Este problema foi feito com o auxÃ­lio do chat gpt
 import java.util.Scanner; 
 public class interseccao {
 
@@ -16,7 +15,7 @@ public class interseccao {
 
     int[] vetorC = intersecaoVetores(vetorA, vetorB);
 
-    System.out.println("Vetor C (Interseção de A e B):");
+    System.out.println("Vetor C (InterseÃ§Ã£o de A e B):");
     exibirVetor(vetorC);
 
     scanner.close();
