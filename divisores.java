@@ -1,5 +1,4 @@
 //problema 5
-package vetor;
 import java.util.Scanner; 
 public class divisores {
 	
