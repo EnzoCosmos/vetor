@@ -1,5 +1,4 @@
 //problema 13
-package vetor;
 import java.util.Scanner; 
 public class receber {
 
