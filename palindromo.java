@@ -1,5 +1,4 @@
 //problema 12
-package vetor;
 import java.util.Scanner; 
 public class palindromo {
 
@@ -13,9 +12,9 @@ public class palindromo {
     boolean ehPalindromo = verificarPalindromo(vetor);
 
     if (ehPalindromo) {
-        System.out.println("A sequência do vetor é um palíndromo.");
+        System.out.println("A sequÃªncia do vetor Ã© um palÃ­ndromo.");
     } else {
-        System.out.println("A sequência do vetor não é um palíndromo.");
+        System.out.println("A sequÃªncia do vetor nÃ£o Ã© um palÃ­ndromo.");
     }
 
     scanner.close();
