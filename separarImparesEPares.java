@@ -1,5 +1,4 @@
 //problema 1
-package vetor;
 import java.util.Scanner; 
 public class separarImparesEPares {
 
@@ -40,7 +39,7 @@ public class separarImparesEPares {
     }
 
     System.out.println(); 
-    System.out.println("Vetor B (ímpares):");
+    System.out.println("Vetor B (Ã­mpares):");
     for (int i = 0; i < indiceImpares; i++) {
         System.out.print(vetorB[i] + " ");
     }
