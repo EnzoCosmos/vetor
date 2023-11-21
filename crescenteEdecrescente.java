@@ -1,5 +1,4 @@
 //problema 15
-package vetor;
 import java.util.Scanner; 
 public class crescenteEdecrescente {
 
