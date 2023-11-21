@@ -1,5 +1,4 @@
 //problema 2
-package vetor;
 import java.util.Scanner; 
 public class tabaduada {
 
