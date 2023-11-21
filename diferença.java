@@ -1,8 +1,7 @@
 //problema 10
-//problema feito com o auxílio do chat gpt
-package vetor;
+//problema feito com o auxÃ­lio do chat gpt
 import java.util.Scanner; 
-public class diferença {
+public class diferenÃ§a {
 
 	public static void main (String[] args) {
 	Scanner scanner = new Scanner (System.in);
@@ -15,7 +14,7 @@ public class diferença {
 
     int[] vetorC = diferencaConjuntos(vetorA, vetorB);
 
-    System.out.println("Vetor C (Diferença dos conjuntos A e B):");
+    System.out.println("Vetor C (DiferenÃ§a dos conjuntos A e B):");
     exibirVetor(vetorC);
 
     scanner.close();
