@@ -1,5 +1,4 @@
 //problema 8
-package vetor;
 import java.util.Scanner; 
 public class somatorio {
 
@@ -15,7 +14,7 @@ public class somatorio {
 	    System.out.println("Vetor A:");
 	    exibirVetor(vetorA);
 
-	    System.out.println("\nVetor B (Somatório de A):");
+	    System.out.println("\nVetor B (SomatÃ³rio de A):");
 	    exibirVetor(vetorB);
 
 	    scanner.close();
