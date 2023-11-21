@@ -1,6 +1,5 @@
 //problema 6
 //problema feito com o auxilio do chat gpt
-package vetor;
 import java.util.Scanner; 
 public class expoente {
 
