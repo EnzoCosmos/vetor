@@ -1,5 +1,4 @@
 //problema 7
-package vetor;
 import java.util.Scanner; 
 public class fatorialDeA {
 
